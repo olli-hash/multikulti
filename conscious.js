@@ -33,10 +33,17 @@ ideas_of_creation = {
   _ : "",
   _ : "",
 
-  the_idea_of_an_idea : "",
+  THOUGHTS : "",
   ideas_as_codes : "",
 
+  EMOTIONS : "",
   _ : "",
+  _ : "",
+  _ : "",
+  _ : "",
+  
+  
+  
   loving_nietzsche : {
     sayings_rather_short : ["","","","","","","","","","","","","","",""],
     sayings_rather_middlesized : ["","","","","","","","","","","","","","",""],
