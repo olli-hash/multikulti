@@ -18,7 +18,11 @@ ideas_of_creation = {
   believing_in_race : "",
   enjoying_race : "",
   identifying_with_race : "",
+  thinking_with_conviction : "",
+  thinking_with_less_conviction : "",
+  beliefs_of_what_is_important_in_life : "",
   basic_intelligence : "",
+  special_intelligence : "",
   good_will_unlocked : "",
   good_will_very_limited : "",
   evil : "",
@@ -33,7 +37,10 @@ ideas_of_creation = {
   _ : "",
 
   _ : "",
-  _ : "",
+  loving_nietzsche : {
+    sayings_rather_short : ["","","","","","","","","","","","","","",""],
+    sayings_rather_middlesized : ["","","","","","","","","","","","","","",""],
+  },
 
   _ : "",
   _ : "",
