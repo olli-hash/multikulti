@@ -1,8 +1,51 @@
 
+const port = 8080
+const express = require('express')
+const path = require('path')
+var app = express()
+var logger = require('morgan')
+app.use(logger('combined'))
+var cookieParser = require('cookie-parser');
+app.use(cookieParser())
+var bodyParser = require('body-parser');
+
+app.use(express.static("a))
+app.use("/script",express.static("script")) 
+
+app.get("/cookies", function(req, res){
+    // Cookies that have not been signed
+    console.log('Cookies: ', req.cookies)
+    // Cookies that have been signed
+    console.log('Signed Cookies: ', req.signedCookies)
+    res.send("Hallo")
+})
+
+
+app.get("", make_creation_gui)
+
+
+
+function make_creation_gui(req, res) {
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+/*                      *
+
+        Auslagern ?
+
+*                       */  
 
 
 //  Receive JSON-Objects?
-
 
 
 ideas_of_creation = {
